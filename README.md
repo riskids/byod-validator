@@ -15,7 +15,6 @@
       
    b. Type IMEI
       - page.fill("#IMEI-validator-input-field", imei)
-      - page.press("#IMEI-validator-input-field", "Enter")
       
    c. Wait for result (10s timeout):
       - Try selector: div[data-testid="byod-sim"]
