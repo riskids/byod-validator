@@ -1,6 +1,4 @@
-# byod-validator
-
-# Script: byod_validator.py
+# byod-validator execution plan:
 
 1. Setup
    - Load IMEIs from imei.txt (one per line)
