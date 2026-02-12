@@ -42,12 +42,3 @@
 5. Repeat (Run 2)
    - Same process → run2_output.json
 ```
-
----
-
-## File Structure
-```
-byod_validator.py          # Main script
-imei.txt                   # Input (5-10 IMEIs)
-run1_output.json           # First run results
-run2_output.json           # Second run results
